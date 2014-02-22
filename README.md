@@ -1,5 +1,9 @@
-msr14-showcase-forges
+MSR14 Data Showcase: OSS Forge Meta-Data
 =====================
+
+This project hosts the datasets for the following paper submitted to MSR 2014's Data Showcase track (http://2014.msrconf.org/data.php):
+
+James R. Williams, Davide Di Ruscio, Nicholas Matragkas, Juri Di Rocco, Dimitris S. Kolovos, _Models of OSS Project Meta-Information: A Dataset of Three Forges_
 
 A MongoDB dump of the data can be downloaded here: https://www.dropbox.com/s/hp2nl3xw3jzz3wk/msr14-forges-dump.zip
 
