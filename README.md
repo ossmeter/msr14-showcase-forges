@@ -1,8 +1,6 @@
 MSR14 Data Showcase: OSS Forge Meta-Data
 =====================
 
->**Note:** We are currently improving the dataset based on the MSR reviews and will release an updated version shortly. The original dataset can still be downloaded using the link below.
-
 This project hosts the datasets for the following paper accepted at MSR 2014's Data Showcase track (http://2014.msrconf.org/data.php):
 
 James R. Williams, Davide Di Ruscio, Nicholas Matragkas, Juri Di Rocco, Dimitris S. Kolovos, _Models of OSS Project Meta-Information: A Dataset of Three Forges_
